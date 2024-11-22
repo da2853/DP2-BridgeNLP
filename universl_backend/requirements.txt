@@ -1,0 +1,14 @@
+Django==3.2
+djangorestframework==3.12.4
+setuptools
+django-cors-headers==3.10.0
+firebase-admin==5.0.0
+langchain==0.3.4
+langchain-google-genai==2.0.1
+qdrant-client==1.12.0
+python-dotenv==1.0.1
+langchain_community
+langchain-openai==0.2.8
+pandas
+numpy
+requests
